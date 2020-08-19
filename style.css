@@ -1,0 +1,79 @@
+
+/* create a separate and optional style sheet for your page  */
+/* doing that avoid to chang this style sheet that  */
+@import "customStyle.css"; 
+
+div {
+
+  /*border: 1px solid black; */
+  padding : 10px ;
+  font-family : verdana ;
+ 
+}
+a{
+	color : blue ;
+	background-color : LightGray ;
+}
+
+a:hover {
+  background-color: yellow;
+}
+p{
+	 max-width: 50em;
+}
+
+code{
+	color : black ;
+	background-color : azure ;
+	font-size : 1.2em;
+	display: inline-block;
+}
+li{
+		 max-width: 50em;
+		 line-height:150%;
+}
+.box {
+	
+	 border: 1px solid grey;
+	 max-width: 1500px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+.cent {
+		background-color : whitesmoke;
+		 border: 1px solid grey;
+		width : 100% ;
+
+}
+
+.leftC{
+	/*border: 1px solid blue; */
+	position: sticky; top: 0;
+	font-size : 0.8em;
+		width : 20% ;
+
+}
+.bottomNaviArea{
+	 text-align : center ;
+	 font-style : italic ;
+	 background-color : LightGray ;
+}
+
+
+.footer {
+		/*border: 1px solid blue;*/
+		color : green ;
+		font-style : italic ;
+		 text-align : center ;
+		font-family : "Comic Sans MS", cursive, sans-serif
+
+}
+/* ================================================ */
+
+
+
+
+
+
+

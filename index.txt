@@ -1,0 +1,16 @@
+#example
+
+"HOME", home.md,
+
+"MY STAMP COLLECTOR PASSION",stampsCollection/firstPage.htm,
+|"Stamps from Nigeria",stampsCollection/Nigeria.htm,
+
+"NEWS", fento/page.md,
+|"Last news",news/chap1.htm,
+|"Older news",news/chap2.htm,
+#|"very old ones",/chap3.md,
+
+#"MORE",moreIndex.htm,
+#|"Features and install",fento/chap1.htm,
+
+#"ABOUT", about.htm,
